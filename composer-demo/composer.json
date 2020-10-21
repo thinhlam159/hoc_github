@@ -1,0 +1,13 @@
+{
+    "name": "thinh/lam159",
+    "authors": [
+        {
+            "name": "thinhlam159",
+            "email": "lamvietthinh048@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "4.0",
+        "symfony/validator": "3.4.*"
+    }
+}
